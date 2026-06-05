@@ -1,4 +1,4 @@
-# [이름을 입력하세요]
+# 전현일 (Jeon Hyunil)
 
 ---
 
@@ -11,8 +11,15 @@
 
 ## 🎓 Education
 
-- `[입학연도] - [졸업연도]` B.S in [전공], [학교명]
-- `[입학연도] - [졸업연도]` M.S in [전공], [학교명]
+- `2016.03 - 2022.08` B.S in Statistics, Konkuk University
+- `2023.09 - 2025.08` M.S in Statistics, Korea University
+
+---
+
+## 📄 Research
+
+**A Three-Step Maximum Likelihood Approach to the Multilevel Topic Model**  
+- `2025` 한국통계학회 하계 학술발표회 학생세션 발표
 
 ---
 
@@ -34,40 +41,30 @@
 
 ---
 
-## 🏆 Awards
-
-- `[날짜]` [수상명] ([주최기관]) - [상금 또는 순위]
-
----
-
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-007ACC?style=flat&logo=data:image/png;base64,&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ## 💳 Certifications
 
-- `[취득연도]` [자격증명]
+- `2025.06` SQL 개발자 (SQLD)
+- `2026.02` 데이터분석 준전문가 (ADsP)
 
 ---
 
 ## 🗣️ Language
 
-- [어학시험명] [점수] ([등급])
+- OPIc IH (2025.12)
 
 ---
 
 ## 🔎 Interests
 
-- 📊 **비즈니스 데이터 분석 및 인사이트 도출** (VOC·시청률·이커머스 도메인)
-- 🔤 **NLP / 텍스트 마이닝** (토픽 모델링, 감성 분석)
-- 🤖 **LLM을 활용한 분석 자동화** (RAG 파이프라인)
-- 📈 **분석 결과의 서비스화** (Flask+Dash 대시보드)
+- 🔤 **텍스트 마이닝 / NLP** (토픽 모델링, 감성 분석, VOC 구조화)
+- 🛒 **이커머스 · 고객 데이터 분석** (RFM, 퍼널, 코호트, 이탈 예측)
+- 📊 **비즈니스 인사이트 도출** (대시보드 구축, 분석 결과 서비스화)
+- 🤖 **LLM 활용 분석 자동화** (RAG 파이프라인, 인사이트 생성)
