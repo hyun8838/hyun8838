@@ -29,12 +29,12 @@
 
 | 프로젝트 | 유형 | 핵심 기술 |
 |---------|------|---------|
-| [📊 Looker 이커머스 분析 대시보드](https://github.com/hyun8838/looker-ecommerce-dashboard) | 개인 | Flask, Dash, BigQuery, Parquet |
+| [📊 Looker 이커머스 분석 대시보드](https://github.com/hyun8838/looker-ecommerce-dashboard) | 개인 | Flask, Dash, BigQuery, Parquet |
 | [🇧🇷 Olist 이커머스 NLP 파이프라인](https://github.com/hyun8838/olist-nlp-pipeline) | 개인 | XGBoost, TF-IDF, LDA, SHAP |
 | [🛒 LG전자 제품 VOC 텍스트 마이닝](https://github.com/hyun8838/lg-voc-text-mining) | 산학협력 | Python, KoNLPy, N-gram |
 | [📺 닐슨 코리아 시청기록 편집규칙 검증](https://github.com/hyun8838/nielsen-viewing-verification) | 산학협력 | R, 데이터 품질 검증 |
 | [📡 KT 그룹 시청률 편집규칙 검증](https://github.com/hyun8838/kt-broadcasting-verification) | 산학협력 | R, SQL, 파이프라인 설계 |
-| [🏪 전통시장 활성화 분析](https://github.com/hyun8838/bc-traditional-market) | 팀프로젝트 | XGBoost, Folium, Kakao Mobility |
+| [🏪 전통시장 활성화 분석](https://github.com/hyun8838/bc-traditional-market) | 팀프로젝트 | XGBoost, Folium, Kakao Mobility |
 | [👗 패션 유튜브 KoBERTopic](https://github.com/hyun8838/youtube-kobertopic) | 연구의뢰 | BERTopic, UMAP, HDBSCAN |
 | [🌿 대학 ESG 키워드 텍스트 마이닝](https://github.com/hyun8838/esg-text-mining) | 연구의뢰 | TF-IDF, NetworkX |
 | [🏬 MLOps 이커머스 고객관리 대시보드](https://github.com/hyun8838/mlops-ecommerce-dashboard/blob/main/presentation.pdf) | 팀프로젝트 | Dash, sklearn Pipeline, ARIMA |
@@ -65,5 +65,5 @@
 ## 🔎 Interests
 
 - 🔤 **텍스트 마이닝 / NLP** (토픽 모델링, 감성 분석, VOC 구조화)
-- 🛒 **이커머스 · 고객 데이터 분析** (RFM, 퍼널, 코호트, 이탈 예측)
-- 📊 **비즈니스 인사이트 도출** (대시보드 구축, 分析 결과 서비스화)
+- 🛒 **이커머스 · 고객 데이터 분석** (RFM, 퍼널, 코호트, 이탈 예측)
+- 📊 **비즈니스 인사이트 도출** (대시보드 구축, 분석 결과 서비스화)
