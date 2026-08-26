@@ -18,6 +18,10 @@
 
 ## 📄 Research
 
+**A Comparative Analysis of ESG Concepts in Home Economics Departments in Korea and Japan: Text Mining of Department Websites**
+(한국과 일본 생활과학 학과에서의 ESG 개념 활용 비교: 홈페이지 텍스트마이닝을 중심으로)
+- `2026` ICES 2026 국제학술대회 제2저자 (심사 중)
+
 **A Three-Step Maximum Likelihood Approach to the Multilevel Topic Model**  
 - `2025` 한국통계학회 하계 학술발표회 학생세션 발표
 
