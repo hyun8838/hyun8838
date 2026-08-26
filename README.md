@@ -39,9 +39,8 @@
 | [📺 닐슨 코리아 시청기록 편집규칙 검증](https://github.com/hyun8838/nielsen-viewing-verification) | 산학협력 | R, 데이터 품질 검증 |
 | [📡 KT 그룹 시청률 편집규칙 검증](https://github.com/hyun8838/kt-broadcasting-verification) | 산학협력 | R, SQL, 파이프라인 설계 |
 | [🏪 전통시장 활성화 분석](https://github.com/hyun8838/bc-traditional-market) | 팀프로젝트 | XGBoost, Folium, Kakao Mobility |
-| [👗 패션 유튜브 KoBERTopic](https://github.com/hyun8838/youtube-kobertopic) | 연구의뢰 | BERTopic, UMAP, HDBSCAN |
 | [🌿 대학 ESG 키워드 텍스트 마이닝](https://github.com/hyun8838/esg-text-mining) | 연구의뢰 | TF-IDF, NetworkX |
-| [🏬 MLOps 이커머스 고객관리 대시보드](https://github.com/hyun8838/mlops-ecommerce-dashboard/blob/main/presentation.pdf) | 팀프로젝트 | Dash, sklearn Pipeline, ARIMA |
+| [🏬 MLOps 이커머스 고객관리 대시보드](https://github.com/hyun8838/mlops-ecommerce-dashboard) | 팀프로젝트 | Dash, sklearn Pipeline, ARIMA |
 
 ---
 
